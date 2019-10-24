@@ -7,5 +7,8 @@
     <string name="button_2">Button 2</string>
     <string name="button_3">Button 3</string>
 
+    <string name="open_browser">Open Browser</string>
+    <string name="make_a_call">Make a call</string>
+
     <string name="description">Digite seu texto</string>
 </resources>
